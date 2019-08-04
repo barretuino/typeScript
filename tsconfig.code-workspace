@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+		"target": "es5"
+        "module": "commonjs",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "strictNullChecks": true
+    },
+    "files": [
+        "exemploHello.ts",
+        "exemplo01.ts",
+        "exemplo02.ts",
+        "exemplo03.ts",
+        "funcoes.ts",
+        "manipulandoVariaveis.ts",
+		"classes.ts"
+    ]
+}

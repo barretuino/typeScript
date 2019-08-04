@@ -1,0 +1,9 @@
+//Criar o js
+tsc nomeArquivo.ts
+
+//Execução em console
+node nomeArquivo.js
+
+//Quando usar get e set, deve se compilar assim
+tsc --target ES2016 classes.ts
+
